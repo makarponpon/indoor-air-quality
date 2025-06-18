@@ -6,4 +6,6 @@ People living in the Global North spend most of their time indoors in the built 
 
 💬 **Language:** Python
 
+🧱 **Repository structure:** Code to reproduce the analysis is available here.
+
 📊 **Dataset download:** View the final classification mapped for Output Areas in England and Wales [here](https://uobristol.maps.arcgis.com/apps/webappviewer/index.html?id=b63cca3d20df47eca38cfc868e54640b).
